@@ -1,0 +1,9 @@
+{
+  "name": "NepaliPatro",
+  "version": "1.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "custom-electron-titlebar": "^4.1.0",
+    "electron": "^18.0.3"
+  }
+}
